@@ -1,0 +1,43 @@
+name: qr_lector
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.6
+  qr_flutter: ^4.1.0
+  qr_code_scanner: ^1.0.1
+  url_launcher: ^6.1.5
+  firebase_core: ^2.30.1
+  firebase_storage: ^11.7.5
+  cloud_firestore: ^4.17.2
+  firebase_core_platform_interface: ^5.0.0
+  firebase_messaging_platform_interface: ^4.5.10
+  firebase_messaging_web: ^3.5.10
+  firebase_messaging: ^14.7.1
+  firebase_auth: ^4.11.1
+  firebase_auth_platform_interface: ^7.0.1
+  firebase_auth_web: ^5.8.4
+  firebase_dynamic_links: ^5.4.1
+  firebase_dynamic_links_platform_interface: ^0.2.6+9
+  firebase_storage_platform_interface: ^5.1.20
+  firebase_storage_web: ^3.9.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
