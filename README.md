@@ -10,3 +10,7 @@ Al ejecutar la aplicación 'qr_generator', se generará un código QR que tendr�
 
 Cuando se ejecute el proyecto 'qr_lector' se obtendrá el código uuid y se actualizará la colección de postman y su estado cambiará lo cual será escuchado en la app que genera el QR, una vez cambie de estado en ambos dispositivos podrás iniciar sesión o redirigir a la pantalla que desees.
 
+#Ejemplo
+
+https://github.com/Idsanchez0/QR-Login-in-Multiple-Devices/assets/33404897/095081cc-7157-4f27-825e-0bbcd09aeec4
+
